@@ -9,11 +9,11 @@ export default function Hero() {
         {/* Left Content */}
         <div>
           <span className="bg-green-100 text-green-700 px-3 py-1 rounded-full text-sm font-medium">
-            Fresh Deals Everyday
+            New Deals Everyday
           </span>
 
           <h1 className="text-4xl md:text-5xl font-bold text-gray-900 mt-4 leading-tight">
-            Fresh Groceries
+          Everything You Need,
             <span className="block text-green-600">Delivered to Your Door</span>
           </h1>
 
